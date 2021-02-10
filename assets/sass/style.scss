@@ -1,0 +1,11 @@
+// https://fontawesome.com/how-to-use/on-the-web/using-with/sass
+@import "fontawesome/fontawesome";
+@import "fontawesome/solid.scss";
+@import "bootstrap/bootstrap";
+// @import "fontawesome/regular.scss";
+// @import "fontawesome/light.scss";
+// @import "fontawesome/brands.scss";
+
+@import 'variables';
+@import 'commons';
+@import "homepage";
